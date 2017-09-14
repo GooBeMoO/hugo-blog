@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Be Moo&#39;s blog</title>
+    <link>https://GooBeMoO.github.io/hugo-blog/</link>
+    <description>Recent content on Be Moo&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
+    <lastBuildDate>Sun, 10 Sep 2017 20:24:30 +0800</lastBuildDate>
+    
+	<atom:link href="https://GooBeMoO.github.io/hugo-blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FirstPost</title>
+      <link>https://GooBeMoO.github.io/hugo-blog/post/firstpost/</link>
+      <pubDate>Sun, 10 Sep 2017 20:24:30 +0800</pubDate>
+      
+      <guid>https://GooBeMoO.github.io/hugo-blog/post/firstpost/</guid>
+      <description>先說一下為甚麼會開這個部落格，我在ＰＴＴ看到有人開了一個關於ＰＨＰ的讀書會， 然後版大要我們先架個部落格當作，第一次的題目吧ＨＡＨＡ。
+![][&amp;ldquo;img/Civet_cats.jpg&amp;rdquo;]</description>
+    </item>
+    
+  </channel>
+</rss>
